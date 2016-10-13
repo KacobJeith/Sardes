@@ -6,7 +6,7 @@ My original goal was to transform the daily mundane struggles from her summer in
 <hr>
 ![SketchFab Model](/_Screenshots/OriginalSketchfab.PNG "SketchFab Model")
 
-![In-Game Screenshot](/_Screenshots/InGame.PNG "In-Game Screenshot")
+![In-Game Screenshot](/_Screenshots/InGame.PNG "InGame Screenshot")
 <hr>
 
 ### Requirements
