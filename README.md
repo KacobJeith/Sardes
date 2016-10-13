@@ -4,13 +4,17 @@ The idea behind this project was to leverage some of the emerging UAV-photogramm
 My original goal was to transform the daily mundane struggles from her summer into a silly game. I didn't get too far, but it is still fun to explore the site using Ethan, Unity's most basic prefab. Maybe someday I will return to expand some of the levels. 
 
 <hr>
+Original SketchFab model of the Sardes Site:
 ![SketchFab Model](/_Screenshots/OriginalSketchfab.PNG "SketchFab Model")
 
+3rd Person View from within the Unity imported scene
 ![In-Game Screenshot](/_Screenshots/InGame.png "In-Game Screenshot")
 <hr>
 
 ### Requirements
 * [git lfs](https://git-lfs.github.com/): Enables Version Control the larger unity assets
+
 <hr>
+
 ### Credits
 Credit goes to my Uygar Zuzuoglu for sending me his photogrammetry imagery of Sardes. Check out his [SketchFab profile](https://sketchfab.com/uygarkuzuoglu) to see more of his photogrammetry sets.
